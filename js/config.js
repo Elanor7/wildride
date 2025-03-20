@@ -1,7 +1,7 @@
 window._config = {
     cognito: {
         userPoolId: 'ap-southeast-1_Uj6rp2UCl', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: 'npm create vite@latest notesapp -- --template react', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        userPoolClientId: '46nd87p4efnjh0b5gknocll3kc', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'ap-southeast-1' // e.g. us-east-2
     },
     api: {
